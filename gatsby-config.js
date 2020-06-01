@@ -13,7 +13,22 @@ module.exports = {
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
       // See the theme's README for all available options
-      options: {},
+      options: {
+        name: `Caleb's Portfolio`,
+        short_name: `Caleb`,
+        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        start_url: `/`,
+        background_color: `#141821`,
+        theme_color: `#f6ad55`,
+        display: `standalone`,
+        icons: [
+          {
+            src: `/biz.png`,
+            sizes: `300x192`,
+            type: `image/png`,
+          },
+        ],
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
