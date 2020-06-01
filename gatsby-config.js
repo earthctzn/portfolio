@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://caleb.biz`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
-    siteImage: `/biz.jpg`,
+    siteImage: `/biz-lg.jpg`,
     author: `Caleb Aviles`,
   },
   plugins: [
