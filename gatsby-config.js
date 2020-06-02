@@ -14,7 +14,7 @@ module.exports = {
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/biz-lg.jpg`,
-    author: `Caleb Aviles`,
+    author: `Caleb`
   },
   plugins: [
     {
