@@ -1,6 +1,5 @@
-import React from "react"
-
-import { Box, useColorMode } from "theme-ui"
+/** @jsx jsx */
+import { Box, useColorMode, jsx } from "theme-ui"
 
 const Footer = () => {
   const [colorMode, setColorMode] = useColorMode()
